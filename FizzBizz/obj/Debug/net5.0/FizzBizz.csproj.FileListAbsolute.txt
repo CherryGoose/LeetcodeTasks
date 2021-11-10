@@ -1,0 +1,16 @@
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\FizzBizz.exe
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\FizzBizz.deps.json
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\FizzBizz.runtimeconfig.json
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\FizzBizz.runtimeconfig.dev.json
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\FizzBizz.dll
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\ref\FizzBizz.dll
+C:\Projects C#\Leetcode\FizzBizz\bin\Debug\net5.0\FizzBizz.pdb
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.AssemblyInfoInputs.cache
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.AssemblyInfo.cs
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.csproj.CoreCompileInputs.cache
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.dll
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\ref\FizzBizz.dll
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.pdb
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.genruntimeconfig.cache
+C:\Projects C#\Leetcode\FizzBizz\obj\Debug\net5.0\FizzBizz.csproj.AssemblyReference.cache

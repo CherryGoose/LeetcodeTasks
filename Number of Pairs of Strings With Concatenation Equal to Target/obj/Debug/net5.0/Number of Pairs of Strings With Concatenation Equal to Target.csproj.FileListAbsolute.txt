@@ -1,0 +1,15 @@
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.exe
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.deps.json
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.runtimeconfig.json
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.runtimeconfig.dev.json
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.dll
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\ref\Number of Pairs of Strings With Concatenation Equal to Target.dll
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\bin\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.pdb
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.AssemblyInfoInputs.cache
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.AssemblyInfo.cs
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.csproj.CoreCompileInputs.cache
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.dll
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\ref\Number of Pairs of Strings With Concatenation Equal to Target.dll
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.pdb
+C:\Projects C#\Leetcode\Number of Pairs of Strings With Concatenation Equal to Target\obj\Debug\net5.0\Number of Pairs of Strings With Concatenation Equal to Target.genruntimeconfig.cache

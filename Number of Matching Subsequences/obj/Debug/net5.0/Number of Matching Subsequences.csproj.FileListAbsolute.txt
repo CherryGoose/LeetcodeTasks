@@ -1,0 +1,16 @@
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\Number of Matching Subsequences.exe
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\Number of Matching Subsequences.deps.json
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\Number of Matching Subsequences.runtimeconfig.json
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\Number of Matching Subsequences.runtimeconfig.dev.json
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\Number of Matching Subsequences.dll
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\ref\Number of Matching Subsequences.dll
+C:\Projects C#\Leetcode\Number of Matching Subsequences\bin\Debug\net5.0\Number of Matching Subsequences.pdb
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.csproj.AssemblyReference.cache
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.AssemblyInfoInputs.cache
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.AssemblyInfo.cs
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.csproj.CoreCompileInputs.cache
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.dll
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\ref\Number of Matching Subsequences.dll
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.pdb
+C:\Projects C#\Leetcode\Number of Matching Subsequences\obj\Debug\net5.0\Number of Matching Subsequences.genruntimeconfig.cache

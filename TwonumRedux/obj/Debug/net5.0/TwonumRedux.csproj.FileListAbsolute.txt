@@ -1,0 +1,15 @@
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\TwonumRedux.exe
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\TwonumRedux.deps.json
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\TwonumRedux.runtimeconfig.json
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\TwonumRedux.runtimeconfig.dev.json
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\TwonumRedux.dll
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\ref\TwonumRedux.dll
+C:\Projects C#\Leetcode\TwonumRedux\bin\Debug\net5.0\TwonumRedux.pdb
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.AssemblyInfoInputs.cache
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.AssemblyInfo.cs
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.csproj.CoreCompileInputs.cache
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.dll
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\ref\TwonumRedux.dll
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.pdb
+C:\Projects C#\Leetcode\TwonumRedux\obj\Debug\net5.0\TwonumRedux.genruntimeconfig.cache

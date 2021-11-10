@@ -1,0 +1,15 @@
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\HasAlternatingBits.exe
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\HasAlternatingBits.deps.json
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\HasAlternatingBits.runtimeconfig.json
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\HasAlternatingBits.runtimeconfig.dev.json
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\HasAlternatingBits.dll
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\ref\HasAlternatingBits.dll
+C:\Projects C#\Leetcode\HasAlternatingBits\bin\Debug\net5.0\HasAlternatingBits.pdb
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.AssemblyInfoInputs.cache
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.AssemblyInfo.cs
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.csproj.CoreCompileInputs.cache
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.dll
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\ref\HasAlternatingBits.dll
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.pdb
+C:\Projects C#\Leetcode\HasAlternatingBits\obj\Debug\net5.0\HasAlternatingBits.genruntimeconfig.cache

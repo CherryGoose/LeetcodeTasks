@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Second Largest Digit in a String/1.0.0": {
+        "runtime": {
+          "Second Largest Digit in a String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Second Largest Digit in a String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

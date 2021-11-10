@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Partition Array into Disjoint Intervals/1.0.0": {
+        "runtime": {
+          "Partition Array into Disjoint Intervals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partition Array into Disjoint Intervals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

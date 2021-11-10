@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LeetCode Biggest time/1.0.0": {
+        "runtime": {
+          "LeetCode Biggest time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode Biggest time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

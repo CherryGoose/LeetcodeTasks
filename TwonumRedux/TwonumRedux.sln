@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwonumRedux", "TwonumRedux.csproj", "{F3E822B0-0104-421D-9FCF-52A9745CD94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E822B0-0104-421D-9FCF-52A9745CD94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E822B0-0104-421D-9FCF-52A9745CD94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E822B0-0104-421D-9FCF-52A9745CD94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E822B0-0104-421D-9FCF-52A9745CD94B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0B17D0-9383-436C-97A5-3BD8853F5CC1}
+	EndGlobalSection
+EndGlobal
