@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Invalid Transactions/1.0.0": {
+        "runtime": {
+          "Invalid Transactions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Invalid Transactions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
